@@ -1,6 +1,6 @@
 # sql-backup-tcl
 Tool for creating backups for MySQL and PostgreSQL.
-The code has comments and var names in spanish, the sample config it's translated to english. It should be enough to get an idea
+The code has comments and var names in spanish, but the sample config it's translated to english. It should be enough to get an idea
 on how to use it.
 
 This script has been creating backup for my development databases and a couple ones in production. 
